@@ -1,0 +1,139 @@
+{
+	"LevelDuration": 120,
+	"GridData": {
+		"XSize": 5,
+		"YSize": 5
+	},
+	"BlockData": [
+		{
+			"Color": 0,
+			"Type": 4,
+			"BlockPos": {
+				"x": 2,
+				"y": 4
+			},
+			"IsLocked": false,
+			"UnlockWithMoves": 0,
+			"IsHorizontal": false,
+			"IsVertical": false
+		},
+		{
+			"Color": 1,
+			"Type": 5,
+			"BlockPos": {
+				"x": 1,
+				"y": 4
+			},
+			"IsLocked": false,
+			"UnlockWithMoves": 0,
+			"IsHorizontal": false,
+			"IsVertical": false
+		},
+		{
+			"Color": 0,
+			"Type": 0,
+			"BlockPos": {
+				"x": 0,
+				"y": 4
+			},
+			"IsLocked": false,
+			"UnlockWithMoves": 0,
+			"IsHorizontal": false,
+			"IsVertical": false
+		},
+		{
+			"Color": 0,
+			"Type": 0,
+			"BlockPos": {
+				"x": 0,
+				"y": 3
+			},
+			"IsLocked": false,
+			"UnlockWithMoves": 0,
+			"IsHorizontal": false,
+			"IsVertical": false
+		},
+		{
+			"Color": 1,
+			"Type": 1,
+			"BlockPos": {
+				"x": 0,
+				"y": 1
+			},
+			"IsLocked": false,
+			"UnlockWithMoves": 0,
+			"IsHorizontal": false,
+			"IsVertical": false
+		},
+		{
+			"Color": 3,
+			"Type": 3,
+			"BlockPos": {
+				"x": 3,
+				"y": 4
+			},
+			"IsLocked": true,
+			"UnlockWithMoves": 2,
+			"IsHorizontal": false,
+			"IsVertical": false
+		}
+	],
+	"GrinderData": [
+		{
+			"GridPos": [
+				{
+					"x": 4,
+					"y": 0
+				}
+			],
+			"Direction": 1,
+			"Color": 1
+		},
+		{
+			"GridPos": [
+				{
+					"x": 2,
+					"y": 0
+				},
+				{
+					"x": 3,
+					"y": 0
+				}
+			],
+			"Direction": 2,
+			"Color": 0
+		},
+		{
+			"GridPos": [
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 1,
+					"y": 0
+				}
+			],
+			"Direction": 2,
+			"Color": 3
+		},
+		{
+			"GridPos": [
+				{
+					"x": 4,
+					"y": 2
+				},
+				{
+					"x": 4,
+					"y": 3
+				},
+				{
+					"x": 4,
+					"y": 4
+				}
+			],
+			"Direction": 1,
+			"Color": 1
+		}
+	]
+}

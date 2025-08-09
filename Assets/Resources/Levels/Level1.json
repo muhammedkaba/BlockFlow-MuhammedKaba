@@ -1,0 +1,99 @@
+{
+	"LevelDuration": 90,
+	"GridData": {
+		"XSize": 4,
+		"YSize": 4
+	},
+	"BlockData": [
+		{
+			"Color": 0,
+			"Type": 0,
+			"BlockPos": {
+				"x": 0,
+				"y": 0
+			},
+			"IsLocked": false,
+			"UnlockWithMoves": 0,
+			"IsHorizontal": false,
+			"IsVertical": false
+		},
+		{
+			"Color": 1,
+			"Type": 0,
+			"BlockPos": {
+				"x": 0,
+				"y": 3
+			},
+			"IsLocked": false,
+			"UnlockWithMoves": 0,
+			"IsHorizontal": false,
+			"IsVertical": false
+		},
+		{
+			"Color": 2,
+			"Type": 0,
+			"BlockPos": {
+				"x": 3,
+				"y": 0
+			},
+			"IsLocked": false,
+			"UnlockWithMoves": 0,
+			"IsHorizontal": false,
+			"IsVertical": false
+		},
+		{
+			"Color": 3,
+			"Type": 0,
+			"BlockPos": {
+				"x": 3,
+				"y": 3
+			},
+			"IsLocked": false,
+			"UnlockWithMoves": 0,
+			"IsHorizontal": false,
+			"IsVertical": false
+		}
+	],
+	"GrinderData": [
+		{
+			"GridPos": [
+				{
+					"x": 0,
+					"y": 0
+				}
+			],
+			"Direction": 3,
+			"Color": 1
+		},
+		{
+			"GridPos": [
+				{
+					"x": 0,
+					"y": 3
+				}
+			],
+			"Direction": 3,
+			"Color": 0
+		},
+		{
+			"GridPos": [
+				{
+					"x": 3,
+					"y": 0
+				}
+			],
+			"Direction": 1,
+			"Color": 3
+		},
+		{
+			"GridPos": [
+				{
+					"x": 3,
+					"y": 3
+				}
+			],
+			"Direction": 1,
+			"Color": 2
+		}
+	]
+}
